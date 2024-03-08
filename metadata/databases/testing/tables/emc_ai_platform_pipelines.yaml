@@ -1,0 +1,3 @@
+table:
+  name: pipelines
+  schema: emc_ai_platform

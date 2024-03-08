@@ -1,0 +1,3 @@
+table:
+  name: topic_pipeline_link
+  schema: emc_ai_platform

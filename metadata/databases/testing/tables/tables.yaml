@@ -1,0 +1,5 @@
+- "!include emc_ai_platform_documents.yaml"
+- "!include emc_ai_platform_pipelines.yaml"
+- "!include emc_ai_platform_topic_pipeline_link.yaml"
+- "!include emc_ai_platform_topics.yaml"
+- "!include emc_ai_platform_users.yaml"

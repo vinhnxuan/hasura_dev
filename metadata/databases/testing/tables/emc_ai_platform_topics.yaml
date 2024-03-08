@@ -1,0 +1,3 @@
+table:
+  name: topics
+  schema: emc_ai_platform
